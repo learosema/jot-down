@@ -1,5 +1,7 @@
 # JotDown
 
+JotDown is a basic notes app which purpose is to help Lea getting more comfortable with NGRX.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
 ## Development server
